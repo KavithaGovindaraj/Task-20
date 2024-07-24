@@ -1,0 +1,716 @@
+﻿
+
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://labour.gov.in/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="keywords" content="Monthly Progress Report, CMF, Content Management Framework">
+
+<meta name="description" content="The Ministry of Labour & Employment is one of the oldest and important Ministries of the Government of India.|Government of India">
+
+<meta name="dcterms.language" content="en" />  
+<meta name="dcterms.title" content="Monthly Progress Report Ministry of Labour & Employment|Government of India  ">
+
+  
+    <title>Monthly Progress Report |  Ministry of Labour & Employment|Government of India</title>
+			
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]>--><!--[endif]-->
+    <style>
+@import url("https://labour.gov.in/modules/system/system.base.css?sh2d3y");
+</style>
+<style>
+@import url("https://labour.gov.in/sites/all/modules/contributed/google_chart_tools/analytics_dashboard/analytics_dashboard.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/calendar/css/calendar_multiday.css?sh2d3y");
+@import url("https://labour.gov.in/modules/comment/comment.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/date/date_api/date.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?sh2d3y");
+@import url("https://labour.gov.in/modules/field/theme/field.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/google_cse/google_cse.css?sh2d3y");
+@import url("https://labour.gov.in/modules/node/node.css?sh2d3y");
+@import url("https://labour.gov.in/modules/search/search.css?sh2d3y");
+@import url("https://labour.gov.in/modules/user/user.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/extlink/extlink.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/views/css/views.css?sh2d3y");
+</style>
+<style>
+@import url("https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/css/flexslider.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base-responsive.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font-awesome.min.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/ctools/css/ctools.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/lightbox2/css/lightbox.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/panels/css/panels.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/modules/contributed/panels/plugins/layouts/onecol/onecol.css?sh2d3y");
+</style>
+<style>
+@import url("https://labour.gov.in/sites/all/themes/labour1/labour1/css/site.css?sh2d3y");
+@import url("https://labour.gov.in/sites/all/themes/labour1/labour1/css/site-responsive.css?sh2d3y");
+</style>
+<style media="print">
+@import url("https://labour.gov.in/sites/all/themes/labour1/labour1/css/print.css?sh2d3y");
+</style>
+  <script src="https://labour.gov.in/sites/all/modules/contributed/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="https://labour.gov.in/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script src="https://labour.gov.in/misc/jquery.once.js?v=1.2"></script>
+<script src="https://labour.gov.in/misc/drupal.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/modules/contributed/google_cse/google_cse.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/modules/contributed/extlink/extlink.js?sh2d3y"></script>
+<script>var base_url ="https://labour.gov.in"; var themePath = "sites/all/themes/labour1/labour1"; var modulePath = "sites/all/modules/cmf/cmf_content";</script>
+<script src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/js/font-size.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/js/framework.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/js/swithcer.js?sh2d3y"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://labour.gov.in/sites/all/modules/cmf/guidelines/js/script.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/modules/contributed/lightbox2/js/lightbox.js?1721795644"></script>
+<script src="https://labour.gov.in/sites/all/themes/labour1/labour1/js/jquery-2.1.1.min.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/themes/labour1/labour1/js/jquery.flexslider.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/themes/labour1/labour1/js/custom.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/themes/labour1/labour1/js/jquery.marquee.js?sh2d3y"></script>
+<script src="https://labour.gov.in/sites/all/themes/labour1/labour1/js/easyResponsiveTabs.js?sh2d3y"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"labour1","theme_token":"CZpG0gaNSKYLMwPYCA9fPDMm-oO-kIdqahmnFovGGl4","js":{"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contributed\/google_cse\/google_cse.js":1,"sites\/all\/modules\/contributed\/extlink\/extlink.js":1,"0":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/font-size.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/framework.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/swithcer.js":1,"https:\/\/www.google.com\/jsapi":1,"sites\/all\/modules\/cmf\/guidelines\/js\/script.js":1,"sites\/all\/modules\/contributed\/lightbox2\/js\/lightbox.js":1,"sites\/all\/themes\/labour1\/labour1\/js\/jquery-2.1.1.min.js":1,"sites\/all\/themes\/labour1\/labour1\/js\/jquery.flexslider.js":1,"sites\/all\/themes\/labour1\/labour1\/js\/custom.js":1,"sites\/all\/themes\/labour1\/labour1\/js\/jquery.marquee.js":1,"sites\/all\/themes\/labour1\/labour1\/js\/easyResponsiveTabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contributed\/google_chart_tools\/analytics_dashboard\/analytics_dashboard.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contributed\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/extlink\/extlink.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/flexslider.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base-responsive.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contributed\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/themes\/labour1\/labour1\/system.menus.css":1,"sites\/all\/themes\/labour1\/labour1\/system.messages.css":1,"sites\/all\/themes\/labour1\/labour1\/system.theme.css":1,"sites\/all\/themes\/labour1\/labour1\/css\/jquery.smartmarquee.css":1,"sites\/all\/themes\/labour1\/labour1\/css\/site.css":1,"sites\/all\/themes\/labour1\/labour1\/css\/site-responsive.css":1,"sites\/all\/themes\/labour1\/labour1\/css\/print.css":1}},"googleCSE":{"cx":"","language":"","resultsWidth":600,"domain":"www.google.com"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contributed\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"urlIsAjaxTrusted":{"\/monthly-progress-report":true,"\/search\/node":true},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        var fontSize = "100";
+  </script>
+
+<noscript>
+
+</noscript>
+<script type="text/javascript">
+jQuery(window).load(function(){
+// Slider           
+ jQuery('#flexSlider').flexslider({
+        animation: "slide",
+    controlNav: true,
+	pausePlay:true,
+        start: function(slider){
+        jQuery('body').removeClass('loading');
+        }
+ });
+// Carousel           
+ jQuery('#flexCarousel-logo').flexslider({
+        animation: "slide",
+        animationLoop: false,
+        itemWidth: 200,
+        itemMargin: 5,
+        minItems: 2,
+        maxItems: 6,
+    slideshow: 1,
+    move: 1,
+	pausePlay:true,
+    controlNav: false,
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+      if (slider.pagingCount === 1) slider.addClass('flex-centered');
+        }
+      });
+    jQuery('#galleryCarousel .view-content ul li').each(function() { 
+      //alert(jQuery(this).children().attr('src'));
+       jQuery(this).attr('data-thumb', jQuery(this).children().attr('src'));
+    });
+ // Gallery
+    //  jQuery('#galleryCarousel').flexslider({
+      //  animation: "fade",
+     //   controlNav: "thumbnails",
+     //   start: function(slider){
+       //   jQuery('body').removeClass('loading');
+     //   }
+     // });
+
+  });
+</script>
+
+
+<script type="text/javascript">
+$(".hindi cmf_lan .alink").attr('title',"हिन्दी");
+  
+</script>
+
+
+</head>
+<body>
+      <div class="region region-header-top">
+    <div id="block-cmf-content-header-region-block" class="block block-cmf-content first odd">
+
+      
+  <noscript class="no_scr">"JavaScript is a standard programming language that is included to provide interactive features, Kindly enable Javascript in your browser. For details visit help page"
+     </noscript><div class="wrapper common-wrapper">
+  <div class="container common-container four_content ">
+      <div class="common-left clearfix">
+          <ul>
+              <li class="gov-india"><span class="responsive_go_hindi"  lang="hi"><a target="_blank" href="https://india.gov.in/hi" title="भारत सरकार ( बाहरी वेबसाइट जो एक नई विंडो में खुलती है)">भारत सरकार</a></span><span class="li_eng responsive_go_eng">Ministry of Labour & Employment, Government of India </span></li><li class="ministry"><span class="li_eng responsive_minis_eng"><a target="_blank" href="https://india.gov.in/" title="GOVERNMENT OF INDIA,External Link that opens in a new window">GOVERNMENT OF INDIA</a></span></li></ul>
+
+        </div>
+        <div class="common-right clearfix">
+          <ul id="header-nav">
+              <li class="ico-skip cf"><a href="#skipCont" title="">Skip to main content</a>
+		      </li>
+
+
+ <li class="ico-skip cf"><a href="https://labour.gov.in/screen-reader-access" title="">Screen Reader Access</a>
+		      </li>
+			  
+			  
+			  
+			  
+	<li class="ico-accessibility cf"><a href="javascript:void(0);" id="toggleAccessibility" title="Accessibility Dropdown">
+				
+				<img class="top" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-accessibility.png" alt="Accessibility Dropdown" />
+				
+				</a>
+                  <ul>
+                     <li> <a onclick="set_font_size('increase')" title="Increase font size" href="javascript:void(0);">A<sup>+</sup>
+					  </a> </li>
+                        <li> <a onclick="set_font_size()" title="Reset font size" href="javascript:void(0);">A<sup>&nbsp;</sup></a> </li>
+                        <li> <a onclick="set_font_size('decrease')" title="Decrease font size" href="javascript:void(0);">A<sup>-</sup></a> </li>
+        <li> <a href="javascript:void(0);" class="high-contrast dark" title="High Contrast">A</a> </li>
+       <li> <a href="javascript:void(0);" class="high-contrast light" title="Normal Contrast" style="display: none;">A</a> </li>
+                     
+                    </ul>
+                </li>
+                 <li class="ico-social cf"><a href="javascript:void(0);" id="toggleSocial" title="Social Medias">
+				<img class="top" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-social.png" alt="Social Medias" /></a>
+                <ul> <li><a target="_blank" title="facebook page,External Link that opens in a new window"  href="https://www.facebook.com/LabourMinistry/"><img alt="Facebook Page" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-facebook.png"></a></li><li><a target="_blank" title="Twitter Page,External Link that opens in a new window"  href="https://twitter.com/LabourMinistry"><img alt="Twitter Page" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-twitter.png"></a></li><li><a target="_blank" title="Youtube Page,External Link that opens in a new window"  href="https://www.youtube.com/channel/UCqj7BBWpocS3c7Xmv5XUTQg"><img alt="youtube Page" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-youtube.png"></a></li><li><a target="_blank" title="Instagram Page, External Link that opens in a new window"  href="https://www.instagram.com/labourministry/"><img alt="instagram Page" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-instragram.jpg"></a></li><li><a target="_blank" title="External Link that opens in a new window" href="https://www.kooapp.com/profile/LabourMinistry"><img alt="Koo Page" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-koo.jpg"></a></li></ul>
+                </li> <li class="ico-site-search cf"><a href="javascript:void(0);" id="toggleSearch" title="Site Search">
+					
+					<img class="top" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-site-search.png" alt="Site Search" /></a>
+					  <div class="search-drop">
+								<form action="/monthly-progress-report" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-HTgnqcDA1kMt-GcwJq9d_WHFx5ob6_SpNp8ujo6U6Nw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+					</li> <li class="ico-sitemap cf"><a href="https://labour.gov.in/site-map" title="Sitemap">
+					 
+					  <img class="top" src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/ico-sitemap.png" alt="Sitemap" /></a></li> <li class="hindi cmf_lan"><a href="javascript:;" title="Select Language">Language</a><ul><li><a target="_blank" href="https://labour.gov.in/hi" lang="hi" class="alink" title="Click here for हिन्दी version.">हिन्दी</a></li></ul></li> </ul>
+        </div>
+    </div>
+</div>
+</div>
+<div id="block-block-63" class="block block-block last even">
+
+      
+  <script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+$(document).ready( function(){
+    $('#block-block-56').show();
+	$('#block-block-12').show();
+});
+
+//--><!]]>
+</script>
+</div>
+  </div>
+   
+
+<script>
+  jQuery(document).ready(function(){
+  jQuery('br').remove();
+  });
+  </script>
+
+<section class="wrapper header-wrapper">
+    <div class="container header-container">
+        <h1 class="logo">
+                              <a href="/"  title="Home" rel="home" class="header__logo" id="logo">
+                    <img class="national_emblem" src="/sites/all/modules/cmf/cmf_content/assets/images/emblem-dark.png" alt="national emblem">
+     <strong>
+        श्रम एवं रोजगार मंत्रालय    </strong>
+            Government of India         
+        <span>
+             Ministry of Labour &amp; Employment        </span>
+                                           </a>
+                              
+        </h1>
+        <a class="toggle-nav-bar" href="javascript:void(0);">
+           <span class="menu-icon"></span>
+        <span class="menu-text">Menu</span>      
+        </a>
+        <div class="header-right clearfix">
+            <div class="right-content clearfix">
+                <div class="float-element">
+                    <a class="sw-logo" title="G20 Logo, External Link that opens in a new window" href="https://www.g20.org/en/"  target="_blank"><img src="https://labour.gov.in/sites/default/files/g20_2.png" alt="G20"></a> 
+                </div>
+                <div class="float-element">
+                    <a class="sw-logo" title="Azadi ka Amrit Mahotsav, External Link that opens in a new window" href="https://amritmahotsav.nic.in/"  target="_blank"><img src="https://labour.gov.in/sites/default/files/azadi_0.jpg" alt="Azadi Ka Amrit Mahotsav"></a>
+                    
+                </div>
+                <div  class="float-element">
+                  <a class="sw-logo" title="Swachh Bharat, External Link that opens in a new window" href="https://swachhbharat.mygov.in/" target="_blank"><img src="https://labour.gov.in/sites/all/themes/labour/images/swach-bharat.png" alt="Swachh Bharat, External Link that opens in a new window"></a>
+                    <a class="sw-logo-high" title="Swachh Bharat, External Link that opens in a new window" href="https://swachhbharat.mygov.in/" target="_blank"><img src="https://labour.gov.in/sites/all/themes/labour/images/swatch_high_contrast.png" alt="Swachh Bharat, External Link that opens in a new window"></a>   
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<!--/.header-wrapper-->
+
+<nav class="wrapper nav-wrapper">
+	<div class="container nav-container">
+    
+    	<!--Main nav goes here-->
+                <div id="main-menu" class="navigation" tabindex="-1">
+        <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-218"><a href="https://labour.gov.in/" class="menu__link">Home</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-944"><a href="/about-ministry" class="menu__link">About Us</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2502"><a href="/about-ministry" class="menu__link">About the Ministry</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2503"><a href="/vision" class="menu__link">Vision</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1507"><a href="/mission" class="menu__link">Mission</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3740"><a href="/organizations-mole" class="menu__link">Organizations of M/o L&amp;E</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3810"><a href="/constitutional-provision" class="menu__link">Constitutional Provision</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6216"><a href="/map-locations" class="menu__link">Map Locations</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5222"><a href="/whos-who" class="menu__link">Who&#039;s Who</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3284"><a href="/policies/national-policy-skill-development" class="menu__link">Policies</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-3782"><a href="/policies/safety-health-and-environment-work-place" class="menu__link">Safety, Health and Environment at Work Place</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4894"><a href="/policies/improve-ease-of-doing-business" class="menu__link">Improve ease of doing Business</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4895"><a href="https://labour.gov.in/shram-suvidha-portal-2" class="menu__link">Shram Suvidha</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6566"><a href="/pencil-portal" class="menu__link">Pencil Portal</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5920"><a href="https://samadhan.labour.gov.in/" target="_blank" class="menu__link">SAMADHAN portal for Industrial Disputes</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-2737"><a href="/industrial-relations" class="menu__link">Acts and Rules</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5918"><a href="https://indiacode.nic.in/handle/123456789/1362/browse?type=ministry&amp;order=ASC&amp;rpp=20&amp;value=Labour+and+Employment" target="_blank" class="menu__link">India Code Portal</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3790"><a href="/industrial-relations-0" class="menu__link">Industrial Relations</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3791"><a href="/industrial-safety-health" class="menu__link">Industrial Safety &amp; Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3792"><a href="/child-women-labour" class="menu__link">Child &amp; Women and Bonded Labour</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3793"><a href="/social-security" class="menu__link">Social Security</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3796"><a href="/wagess" class="menu__link">Wages</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3794"><a href="/labour-welfare" class="menu__link">Labour Welfare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3795"><a href="/employment-training" class="menu__link">Employment</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5295"><a href="/labour-reforms" class="menu__link">Labour Reforms</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-4898"><a href="/list-enactments-ministry" target="_blank" class="menu__link">List of Enactments in the Ministry</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3519"><a href="/schemes/national-child-labour-project-scheme" class="menu__link">Schemes</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6202"><a href="https://eshram.gov.in/" target="_blank" class="menu__link">e-Shram</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6203"><a href="https://www.ncs.gov.in/" class="menu__link">National Career Services (NCS)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6204"><a href="https://unifiedportal-mem.epfindia.gov.in/memberinterface/" class="menu__link">Know Your UAN</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5921"><a href="https://labour.gov.in/pm-sym" target="_blank" class="menu__link">PM Shram Yogi Maan-dhan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2778"><a href="/schemes/aam-admi-beema-yojana" class="menu__link">Aam Admi Beema Yojana</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3513"><a href="/schemes/grant-aid-child-labour-and-women-labour" class="menu__link">Grant in Aid on Child and Women Labour</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4374"><a href="https://labour.gov.in/sites/default/files/rihs_2016_1.pdf" target="_blank" class="menu__link">Revised Integrated Housing Scheme(340KB) Download Pdf (06.09.2017)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3516"><a href="/schemes/national-child-labour-project-scheme" class="menu__link">National Child Labour Project</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4373"><a href="https://labour.gov.in/sites/default/files/20220208154105_compressed.pdf" target="_blank" class="menu__link">Rehabilitation of Bonded Labourer 2021(2.05MB) Download Pdf (07.02.2022)</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6207"><a href="https://labour.gov.in/schemes/plan-schemes-dgfasli" class="menu__link">Others</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2780"><a href="/schemes/plan-schemes-dgfasli" class="menu__link">Plan Schemes of DGFASLI</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-5276"><a href="/" class="menu__link">Internship Scheme</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5277"><a href="https://labour.gov.in/sites/default/files/intern.pdf" class="menu__link">OM Dated 14th March 2018 (1.77MB) Download Pdf </a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5278"><a href="http://labour.gov.in/sites/default/files/scan0001.pdf" class="menu__link">Details of the Scheme(856KB) Download Pdf (02.06.2017)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5279"><a href="https://labour.gov.in/sites/default/files/form.docx" class="menu__link">Application Form</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5280"><a href="https://labour.gov.in/sites/default/files/format.docx" class="menu__link">No. Objection Certificate</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3257"><a href="/administration" class="menu__link">Divisions</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-4398"><a href="/administration" class="menu__link">Administration</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4399"><a href="/budget" class="menu__link">Budget</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6565"><a href="/cls-iicgit-cum-lcsnits" class="menu__link">CLS-II(CGIT-cum-LCs/NITs)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4401"><a href="/central-labour_service" class="menu__link">Central Labour Service</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5917"><a href="https://labour.gov.in/centrallabourservice/central-labour-service-ii-vig" class="menu__link">Central Labour Service (Vigilance)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4404"><a href="/chief-controller-of-accounts" class="menu__link">Chief Controller of Accounts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4402"><a href="/child-bonded-and-women-labour" class="menu__link">Child, Bonded &amp; Women Labour</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4403"><a href="/cordination" class="menu__link">Coordination</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4405"><a href="/dglw" class="menu__link">Directorate General Labour Welfare</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4406"><a href="/esa" class="menu__link">Economic and Statistical Analysis</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4407"><a href="/finance-division" class="menu__link">Finance Division</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4408"><a href="/industrial-relation" class="menu__link">Industrial Relations</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4409"><a href="/industrial-safety-and-health" class="menu__link">Industrial Safety and Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4411"><a href="/lc-and-ilas-division" class="menu__link">LC and ILAS Division</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4410"><a href="/labourdocumentsandreference" class="menu__link">Labour Documents and Reference Centre</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4906"><a href="/media-cell-0" class="menu__link">Media Cell</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4412"><a href="/o-m-section-with-rti-work" class="menu__link">Organisation and Method Section with RTI Work</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4413"><a href="/parliament-unit" class="menu__link">Parliament Unit</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6219"><a href="/rti-legal-cell" class="menu__link">RTI &amp; Legal Cell</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4414"><a href="/planning" class="menu__link">Monitoring &amp; Evaluation Unit</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5919"><a href="/public-grievance-cell-pg-cell" class="menu__link">Public Grievances Cell</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4415"><a href="/rfd-cell" class="menu__link">Result Framework Documents Cell</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4416"><a href="/social-securities" class="menu__link">Social Security</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4417"><a href="/vigilance" class="menu__link">Vigilance</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4418"><a href="/wage-board" class="menu__link">Wage Board</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-4419"><a href="/wage-cell" class="menu__link">Wage Cell</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3952"><a href="/annual-reports" class="menu__link">Documents</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6206"><a href="https://labour.gov.in/social-security-agreement" class="menu__link">Social Security Agreement</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5887"><a href="https://labour.gov.in/monthly-progress-report" class="menu__link">Monthly Progress Report</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3961"><a href="/annual-reports" class="menu__link">Annual Reports</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5493"><a href="/annual-reports-autonomous-bodies" class="menu__link">Annual Reports for Autonomous Bodies</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4056"><a href="https://dge.gov.in/dge/dge-bullitin-view" target="_blank" class="menu__link">Employment Publications</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6563"><a href="https://labour.gov.in/HOC/" target="_blank" class="menu__link">Handbook on Convergence</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5922"><a href="https://labour.gov.in/sites/default/files/commitee_on_determination_of_methodology.pdf" class="menu__link">Report of the Expert Committee(3.25MB) Download Pdf</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5886"><a href="https://labour.gov.in/sites/default/files/code_of_discipline.pdf" class="menu__link">Code of Discipline(1.2mb)download Pdf</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4055"><a href="/report-people" class="menu__link">Report to the people</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3956"><a href="/employment-unemployment-scheme" class="menu__link">Employment &amp; Unemployment Survey</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3957"><a href="/uan-kyc-status-report" title="Universal Account Number - Know you Customer, Status report:External link that will opens in a new window" class="menu__link">UAN KYC Status Report</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3959"><a href="/central-secretariat-manual-office-procedure-csmop" class="menu__link">Central Secretariate Manual of Office Procedure(CSMOP)</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-4057"><a href="/others-1" class="menu__link">Others</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3820"><a href="/rti/public-information-officers-0" class="menu__link">Citizen Corner</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-6196"><a href="/rti/public-information-officers-0" class="menu__link">RTI</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-4058"><a href="/rti/public-information-officers-0" class="menu__link">Public Information Officers</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3816"><a href="/fee-required" class="menu__link">Fee Required</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2900"><a href="/lodge-your-complaint" title="External link that will opens in a new window" class="menu__link">Lodge Your Complaint</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2901"><a href="/submit-your-second-appeal" title="External link that will opens in a new window" class="menu__link">Submit Your Second Appeal</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3522"><a href="/rti/rti-manual-under-section-4-rti-act-2005" class="menu__link">RTI Manual under Section 4 of the RTI Act 2005</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4372"><a href="https://labour.gov.in/sites/default/files/appellate_authorities_0.pdf" target="_blank" class="menu__link">Appellate Authority</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6193"><a href="https://labour.gov.in/sites/default/files/cpios_under_rti_0.pdf" target="_blank" class="menu__link">CPIO/ Appellate Authority</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-6424"><a href="https://samadhan.labour.gov.in/" class="menu__link">Workers Grievances &amp; Claim</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3823"><a href="/citizens_clients_charter" class="menu__link">Citizen/Client Charter</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3812"><a href="/applications-and-appeals" class="menu__link">Applications and Appeals</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3736"><a href="/public-grievances" class="menu__link">Public Grievances</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3824"><a href="/my-visits" class="menu__link">My Visits</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3829"><a href="/consumer-price-index" class="menu__link">Consumer Price Index</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3831"><a href="/labour-identifictaion-number-lin" class="menu__link">Labour Identification Number(LIN)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3833"><a href="/universal-account-number-uan" class="menu__link">Universal Account Number(UAN)</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5281"><a href="/download-forms" class="menu__link">Download Forms</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6189"><a href="/public-opinion-public-grievances" class="menu__link">Public Opinion &amp; Public Grievances</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6564"><a href="https://labour.gov.in/sexual-harassment-women-employee-work-place" class="menu__link">Sexual Harassment at Work Place</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-6210"><a href="/unorganized-workers" class="menu__link">Worker &amp; Employer</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6211"><a href="/unorganized-workers" class="menu__link">Unorganized Worker</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6212"><a href="/organized-worker" class="menu__link">Organized Worker</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6213"><a href="/employer" class="menu__link">Employer</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6214"><a href="/international-worker" class="menu__link">International Worker</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3771"><a href="/press-releases" class="menu__link">Media</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-3040"><a href="/press-releases" title="External site that will open in a new window" class="menu__link">Press Releases</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3773"><a href="/photo-gallery" class="menu__link">Photo Gallery</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-3775"><a href="/video" class="menu__link">Video Gallery</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-6153"><a href="https://labour.dashboard.nic.in/" class="menu__link">Dashboard</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6154"><a href="https://labour.dashboard.nic.in/" target="_blank" class="menu__link">Performance Dashboard</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6201"><a href="https://app.powerbi.com/view?r=eyJrIjoiNTRjOGEwMmEtYmJlMC00NGZkLWJkNDItNTgwZTA2MzBkZWNlIiwidCI6IjA2ZjUzMmJmLTk3NTItNGVjNi04Y2Y4LTIzYTM3YmM2ZDQ2MSJ9" class="menu__link">eShram Dashboard</a></li>
+</ul></li>
+</ul></div>
+        </div><!-- /#main-menu -->
+          </div>
+</nav><!--/.nav-wrapper-->
+    <!--Page Navigation End here-->
+ 
+ 
+  <section class="wrapper banner-wrapper">
+   <!-- <div id="flexSlider" class="flexslider">
+	  <div class="region region-homeslider-portion">
+    <div id="block-views-home-flexslider-block-1" class="block block-views first last odd">
+
+      
+  <div class="view view-home-flexslider view-id-home_flexslider view-display-id-block_1 view-dom-id-cb3b51128be374938ac82c44ec84e5d0">
+        
+  
+  
+      <div class="view-content">
+          <ul class="slides">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-image">        <div class="field-content"><img typeof="foaf:Image" src="https://labour.gov.in/sites/default/files/inner-banner_0.png" width="1600" height="273" alt="Ministry Of Labour &amp; Employment" title="Ministry Of Labour &amp; Employment" /></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-field-image">        <div class="field-content"><img typeof="foaf:Image" src="https://labour.gov.in/sites/default/files/inner-banner_0.png" width="1600" height="273" alt="Ministry Of Labour &amp; Employment" title="Ministry Of Labour &amp; Employment" /></div>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </div>
+       
+    </div>-->
+</section><!--/.banner-wrapper-->
+<a class="wrapper" id="skipCont" tabindex="-1" >&nbsp;</a>
+<section id="fontSize" class="wrapper body-wrapper ">
+<div class="bg-wrapper">
+<div class="container body-container">
+<div class="clear"></div>
+
+<div class="breadcam"><span class='breadcrumb-link breadcrumb-depth-0'><a href="/">Home</a></span><span> >> </span><span class='breadcrumb-link breadcrumb-depth-1'><strong>Monthly Progress Report</strong></span><span> >> </span></div>
+	<div class="aboutmainContainer">
+        <div class="aboutLeftContainer">
+        	<div class="about-menu">
+            	                   </div>
+        </div>
+		        <div class="aboutRightContainer">
+            <div>
+		        	                          <h1 class="page_title">Monthly Progress Report</h1>
+			  
+                                                            
+                                    			
+			
+			
+			
+			
+			 			
+			
+			
+			
+               <div class="panel-display panel-1col clearfix" >   <div class="panel-panel panel-col">     <div><div class="panel-pane pane-views pane-page" >                <div class="view view-page view-id-page view-display-id-block active view-dom-id-dbaf809a7b4f200dfe05bef08cd2f960">                      <div class="view-content">         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">          <div class="views-field views-field-body">        <div class="field-content"><table><tbody><tr><th>Month</th> <th>Download</th> </tr><tr><td>May-2024</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_may_2024.pdf" target="_BLANK" title="The pdf file Open in new window">Download(190.44 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2024</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_april_2024.pdf" target="_BLANK" title="The pdf file Open in new window">Download(139.61 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>March-2024</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_march_2024.pdf" target="_BLANK" title="The pdf file Open in new window">Download(166.54 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-2024</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_february_2024.pdf" target="_BLANK" title="The pdf file Open in new window">Download(221.53 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2024</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_january_2024.pdf" target="_BLANK" title="The pdf file Open in new window">Download(166 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>December-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_december_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(276.17 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_november_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(227.11 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_october_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(271.97 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_sept_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(475.77 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>August-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_august_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(315.77 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>July-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_jul_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(520.19 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>June-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_june_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(561.93 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>May-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_may_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(455.38 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_april_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(461.91 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>March-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_march_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(508.16 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-2023</td> <td><a href="https://labour.gov.in/sites/default/files/report_feb_23.pdf" target="_BLANK" title="The pdf file Open in new window">Download(470.91 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2023</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_jan_2023.pdf" target="_BLANK" title="The pdf file Open in new window">Download(524.19 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>December-2022</td> <td><a href="https://labour.gov.in/sites/default/files/december_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(479.66 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_nov_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(556.94 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_october_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(465.54 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_sep.pdf" target="_BLANK" title="The pdf file Open in new window">Download(465.14 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>August-2022</td> <td><a href="https://labour.gov.in/sites/default/files/m_p_r_august_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(566.02 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>July-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_of_july_of_month_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(472.41 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>June-2022</td> <td><a href="https://labour.gov.in/sites/default/files/june_summary.pdf" target="_BLANK" title="The pdf file Open in new window">Download(463.01 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>May-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mrp_month_of_may_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(146.22 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2022</td> <td><a href="https://labour.gov.in/sites/default/files/month_of_april_2022_compressed.pdf" target="_BLANK" title="The pdf file Open in new window">Download(883.54 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>March-2022</td> <td><a href="https://labour.gov.in/sites/default/files/month_of_march_2022_0.pdf" target="_BLANK" title="The pdf file Open in new window">Download (1.25 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-202</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_feb_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(981.48 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2022</td> <td><a href="https://labour.gov.in/sites/default/files/mrp_of_january_2022.pdf" target="_BLANK" title="The pdf file Open in new window">Download(145.74 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>December-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mrp_of_december_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(325.7 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mrp_month_of_november_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download (154.48 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_month_of_october_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(147.17 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_month_of_september_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(4.83 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>August-2021</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_month_of_august_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(237.83 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>July-2021</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_july_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(143.84 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>June-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_june_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(328.09 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_april_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(611.96 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>March-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_march_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(517.71 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_feb_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(507.32 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2021</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_jan_2021.pdf" target="_BLANK" title="The pdf file Open in new window">Download(602.84 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>December-2020</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_dec_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(710.1 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2020</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_nov_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(512.21 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2020</td> <td><a href="https://labour.gov.in/sites/default/files/mpr_oct_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(628.54 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2020</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_progress_report_september_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(329.19 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>August-2020</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_august_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(258.67 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2020</td> <td><a href="https://labour.gov.in/sites/default/files/april_report.pdf" target="_BLANK" title="The pdf file Open in new window">Download(1.84 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-2020</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_february_2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(315.75 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2020</td> <td><a href="https://labour.gov.in/sites/default/files/jan2020.pdf" target="_BLANK" title="The pdf file Open in new window">Download(631.06 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_november_19.pdf" target="_BLANK" title="The pdf file Open in new window">Download(3.53 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_oct_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(319.34 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2019</td> <td><a href="https://labour.gov.in/sites/default/files/mx-m452n_20191017_190139_compressed.pdf" target="_BLANK" title="The pdf file Open in new window">Download(1.17 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>August-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_aug_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(1.21 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>July-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_july_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(185.14 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>June-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_june_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(6.47 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>May-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_may_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(604.42 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>April-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_april_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(4.43 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>March-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_march_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(1.02 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>February-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_feb_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(1.01 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>January-2019</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_jan_2019.pdf" target="_BLANK" title="The pdf file Open in new window">Download(848.51 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>December-2018</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_dec_2018.pdf" target="_BLANK" title="The pdf file Open in new window">Download(3.25 MB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>November-2018</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_nov_2018.pdf" target="_BLANK" title="The pdf file Open in new window">Download(230.48 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>October-2018</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_report_october_2018.pdf" target="_BLANK" title="The pdf file Open in new window">Download(634.99 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr><tr><td>September-2018</td> <td><a href="https://labour.gov.in/sites/default/files/monthly_progress_report_september_2018.pdf" target="_BLANK" title="The pdf file Open in new window">Download(173.78 KB)</a><img src="https://labour.gov.in/sites/default/files/imagepdf.png" alt="PDF" /></td> </tr></tbody></table></div>  </div>  </div>     </div>                   </div>      </div> </div>   </div> </div>                   </div>
+    <div class="clear"></div>
+    </div>      
+</div>
+</div>  
+</div>
+</section>
+
+
+ <section class="wrapper carousel-wrapper">
+	<div class="container carousel-container">
+    	<div id="flexCarousel" class="flexslider carousel">
+           	  
+    </div>
+    </div>
+</section><!--/.carousel-wrapper-->
+<div class="wrapper footer-wrapper">
+	  <footer id="footer" class="region region-footer">
+    <div id="block-block-78" class="block block-block first odd">
+
+      
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-97659370-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-97659370-1');
+</script>
+
+</div>
+<div id="block-cmf-content-footer-region-block" class="block block-cmf-content even">
+
+      
+  <div class="wrapper footer-wrapper">
+	<div class="footer-top-wrapper">
+    	<div class="container footer-top-container"><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/accessibility-statement" class="menu__link">Accessibility Statement</a></li>
+<li class="menu__item is-leaf leaf"><a href="/terms-conditions" class="menu__link">Terms &amp; Conditions</a></li>
+<li class="menu__item is-leaf leaf"><a href="/website-policy" class="menu__link">Website Policies</a></li>
+<li class="menu__item is-leaf leaf"><a href="/help" class="menu__link">Help</a></li>
+<li class="menu__item is-leaf leaf"><a href="/feedback" class="menu__link">Feedback</a></li>
+<li class="menu__item is-leaf leaf"><a href="/contact-us-0" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="/faqs/general-faq" title="Frequently Asked Questions" class="menu__link">FAQ</a></li>
+<li class="menu__item is-leaf leaf"><a href="/web-information-manager" class="menu__link">Web Information Manager</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/site-map" class="menu__link">Sitemap</a></li>
+</ul></div>
+    </div>
+    <div class="footer-bottom-wrapper">
+    	<div class="container footer-bottom-container">
+        	<div class="footer-content clearfix ">
+			 <div class="logo-cmf">
+            	<a href="http://cmf.gov.in/" target="_blank"><img src="https://labour.gov.in/sites/all/modules/cmf/cmf_content/assets/images/cmf-logo.png" alt="Built on Common Minimum Framework"></a>
+            </div> <div class="copyright-content">
+            	Website Content Owned and Managed by  <b>Ministry of Labour & Employment, Government of India </b>
+            <span>Designed, Developed and Hosted by  <a href="https://www.nic.in/" title="NIC, External Link that opens in a new window" target="_blank"><b>National Informatics Centre( NIC )</b></a> </span> <span class="lastupdated">Last Updated: <b>03 Jul 2024</b></span>
+            </div></div>
+        </div>
+    </div>
+</div>
+</div>
+<div id="block-block-81" class="block block-block last odd">
+
+      
+  <p><a href="https://www.india.gov.in/"><br /><img alt="India.gov.in" src="https://labour.gov.in/sites/default/files/india.jpg" width="120" height="32" style="float: right;/*margin-top: -18px;*/  border-color: black;" /></a></p>
+<p><a href="https://labour.gov.in/sites/default/files/wqc.pdf" target="_blank"><br /><img alt="COQ Certificate" src="https://labour.gov.in/sites/default/files/cqw_icon.png" width="120" height="32" style="float: right;/*margin-top: -39px;*/border-color: black;margin-right: 5px;" /></a></p>
+
+</div>
+  </footer>
+
+
+</div><!--/.footer-wrapper-->
+
+
+
+<script type="text/javascript">
+$(window).load(function(){
+// Slider						
+ $('#flexSlider').flexslider({
+        animation: "slide",
+		controlNav: true,
+        start: function(slider){
+        $('body').removeClass('loading');
+        }
+ });
+ 
+  $('#contSlider1').flexslider({
+        animation: "slide",
+		controlNav: false,
+        start: function(slider){
+        $('body').removeClass('loading');
+        }
+ });
+  
+    $('#contSlider2').flexslider({
+        animation: "slide",
+		controlNav: false,
+        start: function(slider){
+        $('body').removeClass('loading');
+        }
+ });
+ 
+ 
+ 
+// Carousel						
+ $('#flexCarousel').flexslider({
+        animation: "slide",
+		controlNav: true,
+        animationLoop: false,
+        itemWidth: 200,
+        itemMargin: 5,
+        minItems: 2,
+        maxItems: 6,
+		slideshow: 1,
+		move: 1,
+        start: function(slider){
+          $('body').removeClass('loading');
+		  if (slider.pagingCount === 1) slider.addClass('flex-centered');
+        }
+      });
+	  
+// body logo Carousel						
+ $('#flexCarousel-logo').flexslider({
+        animation: "slide",
+		controlNav: true,
+        animationLoop: false,
+        itemWidth: 270,
+        itemMargin: 5,
+        minItems: 2,
+        maxItems: 6,
+		slideshow: 1,
+		move: 1,
+        start: function(slider){
+          $('body').removeClass('loading');
+		  if (slider.pagingCount === 1) slider.addClass('flex-centered');
+        }
+      });
+ 
+ // Gallery
+      $('#galleryCarousel').flexslider({
+        animation: "fade",
+        controlNav: "thumbnails",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+  });
+</script>
+
+<!--Plug-in Initialisation-->
+	<script type="text/javascript">
+    $(document).ready(function() {
+        //Horizontal Tab
+        $('#parentHorizontalTab').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+
+        // Child Tab
+        $('#ChildVerticalTab_1').easyResponsiveTabs({
+            type: 'vertical',
+            width: 'auto',
+            fit: true,
+            tabidentify: 'ver_1', // The tab groups identifier
+            activetab_bg: '#fff', // background color for active tabs in this group
+            inactive_bg: '#fff', // background color for inactive tabs in this group
+            active_border_color: '#c1c1c1', // border color for active tabs heads in this group
+            active_content_border_color: '#5AB1D0' // border color for active tabs contect in this group so that it matches the tab head border
+        });
+    });
+</script>
+  
+   <script>
+    jQuery(document).ready(function() {
+      jQuery('table').attr('role', 'Presentation');
+      //console.log('script is working ');
+	  jQuery( "a" ).each(function( index ,value) {
+		 var txt = jQuery(this).text();
+		 var attr = jQuery(this).attr('title');
+		 if (typeof attr !== 'undefined' && attr !== false) {
+		   if(txt != ''){
+		  console.log('script is working ');
+		   jQuery(this).attr('title',txt);
+		   }
+		   else{
+		  console.log('script is working ');
+		   jQuery(this).attr('title','labour');
+		   }
+		}
+		else{
+			console.log('script is working ');
+		jQuery(this).attr('title','labour');
+		}
+		});
+ });
+var fileNames = [".pdf"];
+jQuery('a[target^="_blank"]').each(function(index, element){
+  fileNames.forEach(function(fileName){
+    if(jQuery(element).attr("href").endsWith(fileName)){
+      jQuery(element).attr("onclick","return confirm('You are being redirected to an new tab.')");
+    }
+  });
+});
+
+function addAltAttribute(){
+let images = document.getElementsByTagName('img');
+for (let i = 0; i < images.length; i++) {
+const isAlt = images[i].getAttribute('alt')
+if(!isAlt){
+const srcText = images[i].getAttribute('src')
+const splitname = srcText?.split('/') || []
+const filenameText = splitname[splitname?.length -1]
+const fileName = filenameText?.split('.')[0]
+images[i].setAttribute("alt", fileName);
+}
+}
+}
+
+addAltAttribute();
+
+/*jQuery('a[target^="_blank"]').each(function(){
+jQuery(this).attr("class","externalLink");
+});
+
+
+
+jQuery('.externalLink').on('click', function(){
+        return confirm('This link willl take you to an external web site.');
+	});*/
+</script>
+<!--
+      
+      if(window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1)=='/hi/' || window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1)=='/hi')
+      {
+       jQuery("</div>").insertBefore( "#block-block-63");
+             }
+      else
+      {
+       
+      }
+      
+     
+    })
+
+
+  </script> -->
+
+
+
+</body>
+</html>
